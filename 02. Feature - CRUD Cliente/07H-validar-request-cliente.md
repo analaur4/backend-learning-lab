@@ -23,5 +23,4 @@
 ## Critérios de aceite
 
 - Requests inválidas devem retornar status `400 Bad Request`.
-- A resposta de erro deve indicar quais campos estão inválidos.
 - A entidade não deve ser salva caso a request seja inválida.

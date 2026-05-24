@@ -23,5 +23,4 @@
 ## Critérios de aceite
 
 - Requests inválidas devem retornar status `400 Bad Request`.
-- A resposta deve indicar os campos inválidos.
 - Produtos inválidos não devem ser persistidos.
