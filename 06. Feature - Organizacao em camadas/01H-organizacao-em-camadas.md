@@ -13,6 +13,7 @@ Separar o código da aplicação nas camadas principais:
 - `repository`: acessa o banco de dados.
 - `entity`: representa as tabelas do banco.
 - `dto`: representa os dados de entrada e saída da API.
+-  `mapper`: responsável por converter entidades em DTOs e DTOs em entidades.
 
 ## Critérios de aceite
 
@@ -20,3 +21,5 @@ Separar o código da aplicação nas camadas principais:
 - Services devem conter as regras de negócio.
 - Repositories devem estender `JpaRepository`.
 - DTOs devem ser usados nas entradas e saídas da API.
+- Conversões entre DTO e Entity devem utilizar MapStruct.
+- Services não devem conter lógica manual extensa de conversão de objetos.
