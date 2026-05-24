@@ -7,7 +7,7 @@
 ## Endpoint sugerido
 
 ```http
-PUT /produtos/{id}
+PATCH /produtos/{id}
 ```
 
 ## Critérios de aceite

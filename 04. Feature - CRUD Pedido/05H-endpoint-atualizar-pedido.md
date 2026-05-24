@@ -7,7 +7,7 @@
 ## Endpoint sugerido
 
 ```http
-PUT /pedidos/{id}
+PATCH /pedidos/{id}
 ```
 
 ## Exemplo de request
