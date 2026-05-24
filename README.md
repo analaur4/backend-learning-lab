@@ -38,3 +38,9 @@ Relacionamentos esperados:
 - Boas práticas básicas de organização backend
 - Testes manuais de API
 - Documentação inicial de projeto
+
+---
+
+# Código de apoio
+- [01. Feature - Configuracao](https://github.com/analaur4/pedidos-api/tree/feature/config-bancodedados)
+- [02. Feature - CRUD Cliente](https://github.com/analaur4/pedidos-api/tree/feature/02-crud-cliente)
