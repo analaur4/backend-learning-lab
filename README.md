@@ -45,3 +45,4 @@ Relacionamentos esperados:
 - [01. Feature - Configuracao](https://github.com/analaur4/pedidos-api/tree/feature/config-bancodedados)
 - [02. Feature - CRUD Cliente](https://github.com/analaur4/pedidos-api/tree/feature/02-crud-cliente)
 - [03. Feature - CRUD Produto](https://github.com/analaur4/pedidos-api/tree/feature/03-crud-produto)
+- [04. Feature - CRUD Pedido](https://github.com/analaur4/pedidos-api/tree/feature/04-crud-pedido)
